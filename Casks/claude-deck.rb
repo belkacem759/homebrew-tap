@@ -1,6 +1,6 @@
 cask "claude-deck" do
-  version "1.0.0"
-  sha256 "f40b816dd3bdf8b3e27a37f8ad38010444a3395ce0144ddc760d5597251dbac1"
+  version "2.0.0"
+  sha256 "5c110010f33fe8175730d40b0516349a7a5ee6c60f436401c47a7a28c3396e9a"
 
   url "https://github.com/belkacem759/claude-deck/releases/download/v#{version}/ClaudeDeck-#{version}.zip"
   name "ClaudeDeck"
